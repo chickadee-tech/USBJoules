@@ -1,0 +1,9 @@
+[submodule "gsg-kicad-lib"]
+	path = gsg-kicad-lib
+	url = https://github.com/greatscottgadgets/gsg-kicad-lib.git
+[submodule "kicad-libs"]
+	path = kicad-libs
+	url = git@github.com:chickadee-tech/kicad-libs.git
+[submodule "digikey-kicad-library"]
+	path = digikey-kicad-library
+	url = https://github.com/Digi-Key/digikey-kicad-library.git

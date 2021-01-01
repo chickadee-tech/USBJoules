@@ -1,0 +1,10 @@
+**/*.bak
+**/*pb2.py*
+**/*-cache.lib
+**/*-rescue.lib
+**/*.kicad_pcb-bak
+**/*.sch-bak
+**/*.gbr
+**/gerber
+**/gerber.zip
+**/_autosave*

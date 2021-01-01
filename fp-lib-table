@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name adafruit)(type KiCad)(uri ${KIPRJMOD}/kicad-libs/footprints/adafruit.pretty)(options "")(descr ""))
+  (lib (name digikey-footprints)(type KiCad)(uri ${KIPRJMOD}/digikey-kicad-library/digikey-footprints.pretty)(options "")(descr ""))
+  (lib (name chickadee)(type KiCad)(uri ${KIPRJMOD}/kicad-libs/footprints/chickadee.pretty)(options "")(descr ""))
+)
